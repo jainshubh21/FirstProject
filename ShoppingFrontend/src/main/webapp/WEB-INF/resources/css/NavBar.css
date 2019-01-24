@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+#navcolor{
+	background-color: #90EE90;
+}
+#links a{
+	color:#400040;
+	font-size: 18px;
+	margin-top:10px;
+}
+.cent{
+	align:right;
+	margin:auto;
+	padding-right:90px;
+}	
+
+.offer{
+	border:2px red solid;
+}	
+	
